@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">👋 Hey, soy Brayan Acuña</h1>
+<h1 align="left">👋 Hey, soy Brayan Acuña - Frontend Developer</h1>
 
 ###
 
